@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['761192103'] //ur owner number
-global.ownername = "Udavin Wijesundara"
-global.ytname = "YT: UW TECH SHOW" //ur yt chanel name
-global.socialm = "Insta: udavin_wijesundara" //ur github or insta name
-global.location = "Sri-Lanka" //ur location
+global.owner = ['917561852787'] //ur owner number
+global.ownername = "Amith.k"
+global.ytname = "YT: RINGTONE FREEK" //ur yt chanel name
+global.socialm = "Insta: " //ur github or insta name
+global.location = "India kerala kannur" //ur location
 
 //bot bombdy
-global.botname = "White King WhatsApp Bot" //ur bot name
-global.websitex = "https://www.youtube.com/channel/UC8CNAgNIXy1O2vLBBSN7tcA" //ur website
+global.botname = "FLASH whatsApp bot" //ur bot name
+global.websitex = "https://github.com/Amithser/uw-white-bot-error-fixed" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "Udavin Wijesundara"
+global.packname = "Made by FLASH bot "
+global.author = "Amithk"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['761192103'] //ur owner tag
-global.ownernummenu = ['761192103'] //ur owner number in menu and all
-global.watermark = "White King WhatsApp Bot." //ur watermark
-global.botscript = "https://www.youtube.com/watch?v=vXBO1zJbGJ4"
-global.linkz1 = "https://chat.whatsapp.com/Ivsw8fEw5lW0n0qKEDHfUX"
-global.linkz2 = "https://chat.whatsapp.com/Jub3moTE7jaBERo8DqWXC1"
+global.ownertag = ['917561852787'] //ur owner tag
+global.ownernummenu = [''] //ur owner number in menu and all
+global.watermark = "© FLASH Bot." //ur watermark
+global.botscript = "https://github.com/Amithser/uw-white-bot-error-fixed"
+global.linkz1 = "https://chat.whatsapp.com/LsDQZRGwowYIbwRBlBNhSC"
+global.linkz2 = "https://chat.whatsapp.com/LsDQZRGwowYIbwRBlBNhSC"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -94,7 +94,7 @@ global.sessionName = "session"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
-    success: 'Done✓',
+    success: 'DONE✅',
     admin: 'This feature is only for admins!',
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This feature is only for owner',
@@ -102,9 +102,9 @@ global.mess = {
     private: 'This feature is only for private chats!',
     bot: 'This feature is only for bot',
     wait: 'In process...',
-    linkm: 'Where is the link?',
-    error: 'Error!',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
+    linkm: 'Where is link🚫?',
+    error: 'Error❎!',
+    ban: 'You have been banned by the owner, if you want to be unbanned, chat my owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
 }
