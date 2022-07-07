@@ -48,13 +48,13 @@ global.socialm = "Insta: " //ur github or insta name
 global.location = "India kerala kannur" //ur location
 
 //bot bombdy
-global.botname = "FLASH whatsApp bot" //ur bot name
+global.botname = "𝛪𝑇𝑆 𝛭𝛯 𝐹𝐿𝛥𝑆𝛨" //ur bot name
 global.websitex = "https://github.com/Amithser/uw-white-bot-error-fixed" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Made by FLASH bot "
+global.packname = "Made by 𝛪𝑇𝑆 𝛭𝛯 𝐹𝐿𝛥𝑆𝛨 "
 global.author = "Amithk"
-global.themeemoji = "🐶"
-global.reactmoji = "😘"
+global.themeemoji = "🤖"
+global.reactmoji = "🤩"
 global.ownertag = ['917561852787'] //ur owner tag
 global.ownernummenu = [''] //ur owner number in menu and all
 global.watermark = "© FLASH Bot." //ur watermark
@@ -95,7 +95,7 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
     success: 'DONE✅',
-    admin: 'This feature is only for admins!',
+    admin: 'Feature is only for admins!',
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This feature is only for owner',
     group: 'This feature is only for groups!',
@@ -103,7 +103,7 @@ global.mess = {
     bot: 'This feature is only for bot',
     wait: 'In process...',
     linkm: 'Where is link🚫?',
-    error: 'Error❎!',
+    error: 'Error warn❎!',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat my owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
