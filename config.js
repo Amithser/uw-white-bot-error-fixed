@@ -95,15 +95,15 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
     success: 'DONE✅',
-    admin: 'Feature is only for admins!',
+    admin: '𝑇𝛨𝛪𝑆 𝐹𝛯𝛥𝑇𝑈𝑅𝛯𝑆 𝐹𝛩𝑅 𝛩𝛮𝐿𝑌 𝛥𝐷𝛭𝛪𝛮𝑆 ',
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This feature is only for owner',
     group: 'This feature is only for groups!',
     private: 'This feature is only for private chats!',
     bot: 'This feature is only for bot',
-    wait: 'In process...',
+    wait: '𝑊𝛥𝛪𝑇 𝛥 𝛭𝛪𝛮𝑈𝑇𝛯',
     linkm: 'Where is link🚫?',
-    error: 'Error warn❎!',
+    error: '𝛯𝑅𝑅𝛩𝑅!',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat my owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
